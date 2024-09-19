@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1719964800&semt=sph");
+background-size: cover;
+background-repeat: no-repeat;
+}
+img{
+width: 9000;
+height: 8000;
+}
+p{
+    color: rgb(231, 7, 93);
+    font-size:xx-large;
+    text-align: center;
+    
+
+}
+pre{
+    color: rgb(246, 10, 128);
+    font-size: xx-large;
+    text-align: center;
+}
+div{
+    color: rgb(237, 11, 135);
+    font-size: xx-large;
+    background-attachment: fixed;
+    text-align: center;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: brown;
+}
+
